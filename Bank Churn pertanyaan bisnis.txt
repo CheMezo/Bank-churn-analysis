@@ -1,0 +1,16 @@
+Bank Churn
+chat bantu aku koreksi antara queryku dengan pertanyaan bisnis berikut
+#1 Gambaran nasabah dan seberapa besar masalahnya
+Seperti apa profil nasabah bank (negara, gender, usia, saldo, gaji), dan berapa churn rate keseluruhan? (Menjawab pertanyaan demografi di web.)
+
+#2 Siapa yang paling sering pergi
+Atribut apa yang lebih sering muncul pada nasabah yang churn dibanding yang bertahan? Bandingkan usia, gender, negara, jumlah produk, status aktif, dan lama menjadi nasabah. (Menjawab pertanyaan pertama di web, tanpa harus membuat model prediksi.)
+
+#3 Perbedaan antar negara
+Apakah nasabah Jerman, Prancis, dan Spanyol berbeda dalam perilaku akun (saldo, jumlah produk, keaktifan), dan apakah churn rate-nya juga berbeda? Kalau ya, apa yang membedakannya?
+
+#4 Nasabah bernilai tinggi yang hilang
+Berapa total saldo yang ikut hilang karena churn, dan apakah nasabah bersaldo besar lebih rentan pergi daripada yang bersaldo kecil? (Ini yang paling berhubungan dengan uang, dan paling berguna bagi manajemen.)
+
+#5 Segmentasi nasabah
+Segmen apa yang terlihat jika nasabah dikelompokkan, misalnya berdasarkan usia, saldo, jumlah produk, dan keaktifan? Segmen mana yang churn-nya tertinggi dan mana yang paling layak dipertahankan? (Menjawab pertanyaan segmentasi di web.)
